@@ -19,8 +19,6 @@ on the assignment handout.
 */
 header {
   display: block;
-  border-style: solid;
-  border-color: orange;
   background-color: black;
   position: fixed;
   width: 90%;
@@ -98,7 +96,7 @@ seperatey identifiable a side panel.
     top: 20%;
     right: 0%;
     border: 3px solid yellow;
-    border-radius: 30px;
+    /*border-radius: 30px;*/
     margin-right: auto;
     margin-left: auto;    
     padding: 1px;
@@ -310,7 +308,7 @@ identifiable and distinguishable.
 The footer is styled here. The font colour and background  
 are set to match the header as mentioned in the handout.
 The footer is also given a circular border as mentioned.  
-*/
+
 footer {
   background: black;
   border-style: solid;
@@ -325,7 +323,7 @@ footer {
   padding-left: 9%;
   text-align: center;
   font-weight: bold;
-}
+}*/
 
 
 
