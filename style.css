@@ -57,7 +57,7 @@ user is scrolling
     position:fixed;
     top:13%;
     padding-top: 5%;
-    /*background-color: #404040;*/
+    background-color: #404040;
     line-height: 60px;
     float:left;
     width:15%;
@@ -95,8 +95,8 @@ seperatey identifiable a side panel.
     position: fixed;
     top: 20%;
     right: 0%;
-    border: 3px solid yellow;
-    /*border-radius: 30px;*/
+    /*border: 3px solid yellow;
+    border-radius: 30px;*/
     margin-right: auto;
     margin-left: auto;    
     padding: 1px;
