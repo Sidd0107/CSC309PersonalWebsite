@@ -305,7 +305,14 @@ identifiable and distinguishable.
 }
 
 #photos {
+    width: 100%;
+    height: 450px;   
     background-color: #FDF3E7;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5%;   
+    padding-left: 18%;
+    line-height: 30px;
 }
 
 /*
