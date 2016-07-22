@@ -304,6 +304,10 @@ identifiable and distinguishable.
   font-family: 'Scada', sans-serif;
 }
 
+#photos {
+    background-color: #FDF3E7;
+}
+
 /*
 The footer is styled here. The font colour and background  
 are set to match the header as mentioned in the handout.
